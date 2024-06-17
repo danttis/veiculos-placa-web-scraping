@@ -42,7 +42,7 @@ A imagem abaixo mostra um exemplo da extração de informações de um veículo 
 1. **Clonar o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/veiculos-placa-web-scraping.git
+   git clone https://github.com/danttis/veiculos-placa-web-scraping.git
    cd veiculos-placa-web-scraping
    ```
 
